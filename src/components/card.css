@@ -1,0 +1,21 @@
+.card-container {
+    width: 15rem;
+    height: 15rem !important;
+    border-radius: 1rem;
+    box-shadow: 0px 10px 8px #999;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    background-color: white;
+    height: fit-content;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-left: 10rem;
+}
+
+.card-img {
+    width: 99%;
+    border-radius: 1rem 1rem 0 0;
+}
